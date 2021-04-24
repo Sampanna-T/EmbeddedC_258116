@@ -8,4 +8,8 @@
 |:--:|:--:|:--:|:--:|
 |![CASE1](simulation/Activity1(CASE1).png)|![CASE2](simulation/Activity1(CASE2).png)|![CASE3](simulation/Activity1(CASE3).png)|![CASE4](simulation/Activity1(CASE4).png)|
 
+## BADGES
 
+[![Compile-Linux](https://github.com/Sampanna-T/EmbeddedC_258116/actions/workflows/Compile.yml/badge.svg)](https://github.com/Sampanna-T/EmbeddedC_258116/actions/workflows/Compile.yml)
+
+[![Cppcheck](https://github.com/Sampanna-T/EmbeddedC_258116/actions/workflows/CodeQuality.yml/badge.svg)](https://github.com/Sampanna-T/EmbeddedC_258116/actions/workflows/CodeQuality.yml)
