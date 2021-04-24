@@ -1,6 +1,6 @@
 # Embedded C Programming Examples with Continuous Integration and Code Quality
 
-# Actuator control using heater pin and button sensor pin
+## Actuator control using heater pin and button sensor pin
 
 ## In Action
 
