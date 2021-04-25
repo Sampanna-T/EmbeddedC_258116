@@ -1,10 +1,11 @@
-PROJ_NAME = Activity1
+PROJ_NAME = Activity
 
 BUILD_DIR = Build
 
 # All Source code files
-SRC = Activity1.c\
-src/user_utils.c
+SRC = Activity.c\
+src/user_utils.c\
+src/ADC.c
 
 # All header file paths
 INC = -I inc
