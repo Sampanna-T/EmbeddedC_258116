@@ -1,5 +1,5 @@
 /**
- * @file Activity1.c
+ * @file project_config.h
  * 
  * @author Sampanna T (kashi16sadan@gmail.com)
  * 
