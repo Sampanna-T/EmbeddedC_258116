@@ -3,9 +3,10 @@ PROJ_NAME = Activity
 BUILD_DIR = Build
 
 # All Source code files
-SRC = Activity.c\
-src/user_utils.c\
-src/ADC.c
+SRC = main.c\
+src/Activity1.c\
+src/Activity2.c\
+src/Activity3.c
 
 # All header file paths
 INC = -I inc
@@ -14,15 +15,6 @@ INC = -I inc
 ifdef OS	# All configurations for Windwos OS
 # Correct the path based on OS
    FixPath = $(subst /,\,$1)
-# Name of the compiler used
-   CC = avr-gcc.exe
-# Name of the elf to hex file converter used
-   AVR_OBJ_CPY = avr-objcopy.exe
-else #All configurations for Linux OS
-   ifeq ($(shell uname), Linux)
-# Correct the path based on OS
-      FixPath = $1				
-# Name of the compiler used
 	  CC = avr-gcc
 # Name of the elf to hex file converter used
 	  AVR_OBJ_CPY = avr-objcopy 
