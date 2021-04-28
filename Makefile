@@ -15,6 +15,15 @@ INC = -I inc
 ifdef OS	# All configurations for Windwos OS
 # Correct the path based on OS
    FixPath = $(subst /,\,$1)
+# Name of the compiler used
+   CC = avr-gcc.exe
+# Name of the elf to hex file converter used
+   AVR_OBJ_CPY = avr-objcopy.exe
+else #All configurations for Linux OS
+   ifeq ($(shell uname), Linux)
+# Correct the path based on OS
+      FixPath = $1				
+# Name of the compiler used
 	  CC = avr-gcc
 # Name of the elf to hex file converter used
 	  AVR_OBJ_CPY = avr-objcopy 
