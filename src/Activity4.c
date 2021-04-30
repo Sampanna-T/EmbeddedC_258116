@@ -75,7 +75,7 @@ void serial_write_temperature(uint8_t value){
 
     start_tx(digit2);//displays the tens's place
     start_tx(digit1);//displays the one's place
-    star_tx(' ');//represents a space
+    start_tx(' ');//represents a space
     start_tx('C');//representing a Celsius
     start_tx('\n');//moves to the next line
 }
