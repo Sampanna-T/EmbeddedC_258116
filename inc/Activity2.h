@@ -46,5 +46,12 @@ void start_ADC(uint8_t channel);
  */
 uint8_t get_ADC();
 
+/**
+ * @brief returns temperature value
+ * 
+ * @return uint8_t 
+ */
+uint8_t get_temperature();
+
 
 #endif

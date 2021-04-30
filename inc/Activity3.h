@@ -12,11 +12,14 @@
  * @copyright Copyright (c) 2021
  * 
  */
+#ifndef __ACTIVITY3_H__
+#define __ACTIVITY3_H__
+
 #ifndef __AVR_ATmega328__
 #define __AVR_ATmega328__
 #endif
 
-#define F_CPU 16000000UL
+#define F_CPU 16000000UL//defining the frequency of atmega328
 
 /**
  * @brief defining all the ports and pins necessary to produce PWM output
@@ -28,6 +31,7 @@
 #include <avr/io.h>
 #include <util/delay.h>
 #include <avr/interrupt.h>
+
 
 
 /**
@@ -50,3 +54,5 @@ void initialize_PWM();
  * @param t_on
  */
 void start_PWM(uint8_t t_on);
+
+#endif

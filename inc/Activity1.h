@@ -31,12 +31,12 @@
 
 #define btn_sensor_ddr DDRD
 #define btn_sensor_port PIND
-#define btn_sensor_pin PIND0
+#define btn_sensor_pin PIND3
 #define btn_sensor_pullup_port PORTD
 
 #define heater_port_ddr DDRD
 #define heater_port PIND
-#define heater_pin PIND1
+#define heater_pin PIND4
 #define heater_pullup_port PORTD
 
 #include <avr/io.h>
