@@ -18,6 +18,12 @@
 |:--:|:--:|:--:|:--:|
 |![CASE1](simulation/Activity3(CASE1).png)|![CASE2](simulation/Activity3(CASE2).png)|![CASE3](simulation/Activity3(CASE3).png)|![CASE4](simulation/Activity3(CASE4).png)|
 
+## In Action Activity4
+
+|CASE1|
+|:--:|
+|![CASE1](simulation/Activity4.png)|
+
 ## BADGES
 
 [![Compile-Linux](https://github.com/Sampanna-T/EmbeddedC_258116/actions/workflows/Compile.yml/badge.svg)](https://github.com/Sampanna-T/EmbeddedC_258116/actions/workflows/Compile.yml)
