@@ -1,1 +1,1 @@
-@mainpage Activity1 Example by Sampanna T @subpage Activity1.c
+@mainpage Activity1 Example by Sampanna T @subpage main.c
