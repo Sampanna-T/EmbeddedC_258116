@@ -29,3 +29,5 @@
 [![Compile-Linux](https://github.com/Sampanna-T/EmbeddedC_258116/actions/workflows/Compile.yml/badge.svg)](https://github.com/Sampanna-T/EmbeddedC_258116/actions/workflows/Compile.yml)
 
 [![Cppcheck](https://github.com/Sampanna-T/EmbeddedC_258116/actions/workflows/CodeQuality.yml/badge.svg)](https://github.com/Sampanna-T/EmbeddedC_258116/actions/workflows/CodeQuality.yml)
+
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/575d71d3cab64b1096b435d7133f8939)](https://www.codacy.com/gh/Sampanna-T/EmbeddedC_258116/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Sampanna-T/EmbeddedC_258116&amp;utm_campaign=Badge_Grade)
