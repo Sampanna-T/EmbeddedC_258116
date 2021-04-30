@@ -26,6 +26,7 @@
 
 ## BADGES
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/e2ee2a3f18714b019e1a83971cf0128e)](https://app.codacy.com/gh/Sampanna-T/EmbeddedC_258116?utm_source=github.com&utm_medium=referral&utm_content=Sampanna-T/EmbeddedC_258116&utm_campaign=Badge_Grade_Settings)
 [![Compile-Linux](https://github.com/Sampanna-T/EmbeddedC_258116/actions/workflows/Compile.yml/badge.svg)](https://github.com/Sampanna-T/EmbeddedC_258116/actions/workflows/Compile.yml)
 
 [![Cppcheck](https://github.com/Sampanna-T/EmbeddedC_258116/actions/workflows/CodeQuality.yml/badge.svg)](https://github.com/Sampanna-T/EmbeddedC_258116/actions/workflows/CodeQuality.yml)
